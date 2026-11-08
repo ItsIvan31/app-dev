@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+- ☕ **Black Coffee** – No sugar, no milk, just pure coffee.
+- 🎌 **Anime** – Always ready for another episode or a new series.
+- 🎮 **Fun Activities** – I enjoy doing random things, trying new experiences, and having a good time.
+- 🌙 **My Vibe** – Chill, curious, and always up for something interesting.
